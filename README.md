@@ -1,4 +1,4 @@
-BBitwise-Binary-Counter-Example
+Bitwise-Binary-Counter-Example
   ===========
   
 
